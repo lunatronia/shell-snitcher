@@ -1,4 +1,4 @@
-## shell-webhook
+## shell-snitcher
 
 a simple addition to zshconfig made as a joke.
 basically, it sends every *mostly* every command you type into your shell to your desired discord webhook with your username and pc name to discord.
